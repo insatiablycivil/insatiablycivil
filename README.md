@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @insatiablycivil
 - 👀 I’m interested in data analytics, nice UX, machine learning
 - 🌱 I’m currently learning Python, R, machine learning / data analytics
 - 💞️ I’m looking to collaborate on ... finish/fix my Gomoku game? :D
