@@ -18,4 +18,6 @@ In theory, I know Java and Matlab, but not comfortable in using them anymore.
 
 I always thought my work / code would speak for itself. 
 Didn't think that through given that basically none of my work / code is allowed to be shared...
-So, forgive the unusual repositories; it's the best I can do to try and show what I did.
+So, forgive the unusual repositories; it's the best I can do to try and show what I did. 
+
+The C57104wMCM repository is my first attempt to properly share code. As it is based on my PhD, it something I can actually publish. Please feel free to provide feedback etc if you get a chance to look at it!
